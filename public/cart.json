@@ -1,0 +1,38 @@
+[
+    {
+        "tier": "Silver Membership",
+        "price_per_month": 30,
+        "image_url": "https://st4.depositphotos.com/15076736/21784/i/450/depositphotos_217841338-stock-photo-abstract-pastel-soft-colorful-smooth.jpg",
+        "features": [
+            "Access to all basic gym equipment",
+            "Group fitness classes (limited)",
+            "Locker room access",
+            "Access during off-peak hours",
+            "Consultation with trainer (once/month)"
+        ]
+    },
+    {
+        "tier": "Gold Membership",
+        "price_per_month": 50,
+        "image_url": "https://media.istockphoto.com/id/1470198552/vector/gold-background.jpg?s=612x612&w=0&k=20&c=e0Mz0kTAkwnp8yCKAqQz-1K8wUiPVkdgOluJqDrRcnE=",
+        "features": [
+            "All Silver features",
+            "Access during peak hours",
+            "Unlimited group fitness classes",
+            "Access to sauna and steam room",
+            "10% discount on personal training packages"
+        ]
+    },
+    {
+        "tier": "Platinum Membership",
+        "price_per_month": 80,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9VTaugyws_IOO09rS-2ZEvT5TJiZ987kDxg&s",
+        "features": [
+            "All Gold features",
+            "24/7 gym access",
+            "Unlimited access to spa and wellness facilities",
+            "Priority booking for personal training sessions",
+            "Complimentary fitness assessment every month"
+        ]
+    }
+]
